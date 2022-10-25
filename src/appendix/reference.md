@@ -1,0 +1,21 @@
+# 参考资料
+
+* [Working with Blocks](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html)
+* [Objective-C Automatic Reference Counting (ARC) — Clang 16.0.0git documentation](https://clang.llvm.org/docs/AutomaticReferenceCounting.html#background)
+* [Block 的 Block_descriptor_1 | SeanChense](http://seanchense.github.io/2019/12/04/block-descriptor/)
+* [Block 实现中的 flags | SeanChense](http://seanchense.github.io/2019/12/04/block-flags/)
+* [Block Implementation Specification — Clang 15.0.0git documentation (llvm.org)](https://clang.llvm.org/docs/Block-ABI-Apple.html)
+* [iOS底层原理篇(十八) ---- Block底层原理_@Block_Smile的博客-CSDN博客](https://blog.csdn.net/weixin_39950838/article/details/107918245)
+* [一种查看Block中引用的所有外部对象的实现方法 - K码农 (kmanong.top)](http://kmanong.top/kmn/qxw/form/article?id=14958&cate=63)
+* [block那些事——block 内部结构(1/5) | 雪峰的blog (zxfcumtcs.github.io)](http://zxfcumtcs.github.io/2014/07/14/block/)
+* [block那些事——block copy(2/5) | 雪峰的blog (zxfcumtcs.github.io)](http://zxfcumtcs.github.io/2014/07/15/block2/)
+* [iOS Block 总结 | Edgar's Blog (tbfungeek.github.io)](https://tbfungeek.github.io/2019/07/10/iOS-Block-%E6%80%BB%E7%BB%93/)
+* [【译】《A look inside blocks Episode 3 (Block_copy)》 - 掘金](https://juejin.cn/post/6970544091596046344)
+* [A look inside blocks: Episode 3 (Block_copy) - Matt Galloway](https://www.galloway.me.uk/2013/05/a-look-inside-blocks-episode-3-block-copy/)
+* [A look inside blocks: Episode 1 - Matt Galloway](https://www.galloway.me.uk/2012/10/a-look-inside-blocks-episode-1/)
+* [A look inside blocks: Episode 2 - Matt Galloway](https://www.galloway.me.uk/2012/10/a-look-inside-blocks-episode-2/)
+* [mikeash.com: Friday Q&A 2010-01-22: Toll Free Bridging Internals](https://www.mikeash.com/pyblog/friday-qa-2010-01-22-toll-free-bridging-internals.html)
+* [objective c - Is there a way to wrap an ObjectiveC block into function pointer? - OGeek|极客中国-技术改变生活,极客改变未来](https://ogeek.cn/qa/?qa=742124/)
+* [mikeash.com: Friday Q&A 2010-02-12: Trampolining Blocks with Mutable Code](https://www.mikeash.com/pyblog/friday-qa-2010-02-12-trampolining-blocks-with-mutable-code.html)
+* [iOS的Block定义的结构图 | ProcessOn免费在线作图,在线流程图,在线思维导图](https://www.processon.com/view/link/6293498c0e3e74603c4b2039)
+* 
