@@ -1,6 +1,6 @@
 {
   "latestVersion": "v0.6",
-  "lastUpdate": "20221025",
+  "lastUpdate": "20221027",
   "gitRepoName": "ios_re_objc_block",
   "bookName": "iOS逆向开发：Block匿名函数",
   "bookDescription": "介绍iOS逆向期间会涉及到的Block匿名回调函数。先解释为何要研究Block；再详细介绍Block，包括正向开发时的如何写Block代码，然后是逆向时Block的结构定义，包括定义的代码和定义的结构图，再分别介绍每一部分的含义，包括Block类型、flags、invoke，以及其中的signature函数签名，以及descriptor、imported variables引用的量；再介绍iOS逆向期间所涉及到的Block最核心的内容是哪些，然后举例详细阐述如何通过Block搞懂函数调用逻辑，以及导入变量的参数传递，顺带介绍如何优化IDA伪代码。然后再整理Block相关的心得，比如动态调试期间，如何查看Block信息、和Block相关的objc函数。"

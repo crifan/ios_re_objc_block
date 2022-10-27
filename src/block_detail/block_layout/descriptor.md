@@ -37,7 +37,7 @@ struct Block_layout {
 };
 ```
 
-合并后，就是前面[Block详细定义](http://book.crifan.org/books/ios_re_objc_block/website/block_detail/)所整理的：
+合并后，就是前面[Block详细定义](https://book.crifan.org/books/ios_re_objc_block/website/block_detail/block_layout/)所整理的：
 
 ```c
 // merged new layout

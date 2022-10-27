@@ -28,7 +28,7 @@ struct Block_layout {
 };
 ```
 
-详见整理的[Block结构图](http://book.crifan.org/books/ios_re_objc_block/website/block_detail/)中的定义：
+详见整理的[Block结构图](https://book.crifan.org/books/ios_re_objc_block/website/block_detail/block_layout/)中的定义：
 
 ![block_flags_definition](../../assets/img/block_flags_definition.jpg)
 
