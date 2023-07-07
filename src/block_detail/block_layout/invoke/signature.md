@@ -3,6 +3,7 @@
 TODO：
 
 * 【整理】iOS逆向心得：Block的invoke函数的签名signature的含义
+* 【已解决】iOS逆向：__block_literal_global
 
 ---
 

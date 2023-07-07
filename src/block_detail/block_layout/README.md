@@ -51,7 +51,7 @@ struct Block_descriptor {
 * 自己的详细图
   * ![block_layout_crifan_detail](../../assets/img/block_layout_crifan_detail.jpg)
     * 在线浏览
-      * [iOS的Block定义的结构图 | ProcessOn免费在线作图,在线流程图,在线思维导图](https://www.processon.com/view/link/6293498c0e3e74603c4b2039)
+      * [iOS的Block定义的结构图 | ProcessOn免费在线作图](https://www.processon.com/view/link/6293498c0e3e74603c4b2039)
 * 别人的简单的图
   * ![block_layout_other_simple](../../assets/img/block_layout_other_simple.png)
 

@@ -7,13 +7,14 @@ Block有多种类型：
     * `global`
     * `malloc`
     * `stack`
-  * 具体：很多种
+  * 具体：[很多种](https://opensource.apple.com/source/libclosure/libclosure-79/data.m.auto.html)
     * `_NSConcreteGlobalBlock`
     * `_NSConcreteMallocBlock`
     * `_NSConcreteStackBlock`
     * `_NSConcreteAutoBlock`
     * `_NSConcreteFinalizingBlock`
-    * `_NSConcreteWeakBlockVariable`
+    * 其他相关
+      * `_NSConcreteWeakBlockVariable`
 * 最常见的3种Block类型
   * 文字
     * `_NSConcreteGlobalBlock`
