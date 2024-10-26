@@ -8,7 +8,6 @@
     * [Block类型](block_detail/block_layout/type.md)
     * [flags](block_detail/block_layout/flags.md)
     * [invoke](block_detail/block_layout/invoke/README.md)
-      * [signature](block_detail/block_layout/invoke/signature.md)
     * [descriptor](block_detail/block_layout/descriptor.md)
     * [imported variables](block_detail/block_layout/imported_variables.md)
 * [Block分析实例](block_example/README.md)
